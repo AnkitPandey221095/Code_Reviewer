@@ -1,4 +1,4 @@
-# Note-It (MERN Stack)
+# Code_Reviewer
 
 A smart and interactive web tool that helps you **understand, fix, and optimize** your code instantly.
 
