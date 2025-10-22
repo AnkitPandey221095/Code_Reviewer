@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/164bda82-b162-449f-ab41-2d6c0a0d0275" /># Note-It (MERN Stack)
+# Note-It (MERN Stack)
 
 A smart and interactive web tool that helps you **understand, fix, and optimize** your code instantly.
 
