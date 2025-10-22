@@ -30,15 +30,15 @@ A smart and interactive web tool that helps you **understand, fix, and optimize*
 
 ### Home Page
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cc157a38-715f-44d5-990d-f15a49bb8149" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/922d45b2-9c76-46ab-b1d2-78f6fc1646b9" />
 
-### Crete Page
+### Change Language
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2e467aab-11fe-41b0-9a31-cb912fc29c8f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e3c72326-81c5-4c90-a00c-2e5c4edad1a6" />
 
-### Update Page
+### Change Target
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0725a622-2b5a-47cc-9ce8-d3d3c9bf7556" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed04d676-9458-49e2-b154-a9c7499928b3" />
 
 ## � Wanna Clone and run this repo
 
